@@ -127,3 +127,28 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/dato-native/0.zip
+data/dato-native/1.zip
+data/dato-native/2.zip
+data/dato-native/3.zip
+data/dato-native/4.zip
+data/dato-native/5.zip
+data/dato-native/sampleSubmission_v2.csv.zip
+data/dato-native/sampleSubmission.csv.zip
+data/dato-native/train_v2.csv.zip
+data/dato-native/train.csv.zip
+data/dato-native/.DS_Store
+classifier.py
+process_html.py
+data/.DS_Store
+data/0.zip
+data/1.zip
+data/2.zip
+data/3.zip
+data/4.zip
+data/5.zip
+data/sampleSubmission_v2.csv.zip
+data/sampleSubmission.csv.zip
+data/train_v2.csv.zip
+data/train.csv.zip
+.DS_Store
