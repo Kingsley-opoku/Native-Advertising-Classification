@@ -56,4 +56,23 @@ def scrape_data(rootdir):
                     for row in rows:
                         writer.writerow(row)
 
+
+def preprocessing(df):
+    df = pd.read_csv('data_30878_entries.csv')
+    df.columns = ['id', 'title', 'text']
+
+    clean_df = df[df['id'].str.contains('_raw_html.txt')]
+    clean_df.dropna(subset=clean_df.columns, inplace=True)
+
+    labels = pd.read_csv('train_v2.csv')
+    labels = labels.rename(columns={'file': 'id', 'sponsored': 'label'})
+
+    df_joined = clean_df.set_index('id').join(labels.set_index('id'))
+
+    df_joined.to_csv('data_labels.csv', ',')
+
+    return df_joined
+
+
+
 scrape_data(rootdir)
