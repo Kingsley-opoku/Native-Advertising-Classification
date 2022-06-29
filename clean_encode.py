@@ -104,7 +104,7 @@ class TrainData(Dataset):
         return self.sequences[i], self.labels[i]
 
 
-def collate_train(batch, vectorizer):
+def collate(batch, vectorizer):
     inputs = torch.stack([torch.stack([vectorizer(token) for token in sentence[0]]) for sentence in batch])
     target = torch.LongTensor([item[1] for item in batch])
     return inputs, target
