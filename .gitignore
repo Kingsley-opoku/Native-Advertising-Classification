@@ -152,3 +152,5 @@ data/sampleSubmission.csv.zip
 data/train_v2.csv.zip
 data/train.csv.zip
 .DS_Store
+.vector_cache/wiki.simple.vec.pt
+.vector_cache/wiki.simple.vec
