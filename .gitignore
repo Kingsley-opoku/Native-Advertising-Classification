@@ -152,3 +152,8 @@ data/sampleSubmission.csv.zip
 data/train_v2.csv.zip
 data/train.csv.zip
 .DS_Store
+data/.train_v2.csv.icloud
+outputs/state_dict.pt
+.vector_cache/wiki.simple.vec.pt
+data/.train.csv.icloud
+.vector_cache/wiki.simple.vec

@@ -43,7 +43,7 @@ def  clean_text(text):
     return text
 
 def train_test_split(filename: str, train_size=0.8):
-    df=pd.read_csv(filename, index_col='id', nrows=600)
+    df=pd.read_csv(filename, index_col='id')
     df['text'] = df['text'].apply(lambda x:clean_text(x))
     df=df.drop(columns='title')
     df_idx = [i for i in range(len(df))]
