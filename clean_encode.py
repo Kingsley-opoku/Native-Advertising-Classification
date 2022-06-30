@@ -4,9 +4,9 @@ import re
 import string
 import spacy
 import torch
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 from collections import Counter
-from torchtext.vocab import Vocab, FastText
+from torchtext.vocab import  FastText
 
 nlp = spacy.load('en_core_web_sm')
 
@@ -43,8 +43,9 @@ def  clean_text(text):
     return text
 
 def train_test_split(filename: str, train_size=0.8):
-    df=pd.read_csv(filename, index_col='id', nrows=100)
-    df['comment_text'] = df['comment_text'].apply(lambda x:clean_text(x))
+    df=pd.read_csv(filename, index_col='id', nrows=600)
+    df['text'] = df['text'].apply(lambda x:clean_text(x))
+    df=df.drop(columns='title')
     df_idx = [i for i in range(len(df))]
     np.random.shuffle(df_idx)
     len_train = int(len(df) * train_size)
@@ -87,13 +88,13 @@ class TrainData(Dataset):
         self.max_seq_len = max_seq_len
         
         counter = Counter()
-        train_iter = iter(df['comment_text'].values)
+        train_iter = iter(df['text'].values)
         self.vec = FastText("simple")
         self.vec.vectors[1] = -torch.ones(self.vec.vectors[1].shape[0]) # replacing the vector associated with 1 (padded value) to become a vector of -1.
         self.vec.vectors[0] = torch.zeros(self.vec.vectors[0].shape[0]) # replacing the vector associated with 0 (unknown) to become zeros
         self.vectorizer = lambda x: self.vec.vectors[x]
-        self.labels = df.drop(columns='comment_text').float()
-        sequences = [padding(encoder(preprocessing(sequence), self.vec), max_seq_len) for sequence in df['comment_text'].tolist()]
+        self.labels = df.drop(columns='text').values
+        sequences = [padding(encoder(preprocessing(sequence), self.vec), max_seq_len) for sequence in df['text'].tolist()]
         self.sequences = sequences
     
     def __len__(self):
@@ -106,7 +107,7 @@ class TrainData(Dataset):
 
 def collate(batch, vectorizer):
     inputs = torch.stack([torch.stack([vectorizer(token) for token in sentence[0]]) for sentence in batch])
-    target = torch.LongTensor([item[1] for item in batch])
+    target = torch.LongTensor(np.array([item[1] for item in batch]))
     return inputs, target
 
 

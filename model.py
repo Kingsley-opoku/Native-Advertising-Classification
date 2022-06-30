@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-import torch.functional as F
+import torch.nn.functional as F
 
 
 
@@ -13,9 +13,10 @@ class NaiveClassifier(nn.Module):
  
         self.no_layers = no_layers
         self.vocab_size = vocab_size
+        self.embedding_dim=embedding_dim
     
         # embedding and LSTM layers
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)
+        # self.embedding = nn.Embedding(self.vocab_size, self.embedding_dim)
 
         #lstm
         self.lstm = nn.LSTM(input_size=embedding_dim,hidden_size=self.hidden_dim,
@@ -26,22 +27,29 @@ class NaiveClassifier(nn.Module):
         self.dropout = nn.Dropout(0.3)
     
         # linear and sigmoid layer
-        self.fc = nn.Linear(self.hidden_dim, 1)
+
+        self.fc1=nn.Linear(self.hidden_dim, 200)
+        self.fc2 = nn.Linear(200, 1)
         self.sig = nn.Sigmoid()
 
 
     def forward(self,x,hidden):
+        # print(x.shape)
         batch_size = x.size(0)
+        # x = torch.tensor(x).to(torch.int64)
         # embeddings and lstm_out
-        embeds = self.embedding(x)  # shape: B x S x Feature   since batch = True
+        # embeds = self.embedding(x) 
+        # print(embeds)
         
-        lstm_out, hidden = self.lstm(embeds, hidden)
+        lstm_out, hidden = self.lstm(x, hidden)
         
         lstm_out = lstm_out.contiguous().view(-1, self.hidden_dim) 
         
         # dropout and fully connected layer
         out = self.dropout(lstm_out)
-        out = self.fc(out)
+        out = self.fc1(out)
+        act = F.relu(self.dropout(out))
+        out = self.fc2(act)
         
         # sigmoid function
         sig_out = self.sig(out)
@@ -63,3 +71,5 @@ class NaiveClassifier(nn.Module):
         h_2= torch.zeros((self.no_layers,batch_size,self.hidden_dim))
        
         return h_1, h_2
+
+
