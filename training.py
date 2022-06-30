@@ -122,9 +122,9 @@ for epoch in range(epochs):
     print(f'Epoch {epoch+1}') 
     print(f'train_loss : {epoch_train_loss} val_loss : {epoch_val_loss}')
     print(f'train_accuracy : {epoch_train_acc} val_accuracy : {epoch_val_acc}')
-    if epoch_val_loss <= valid_loss_min:
-        torch.save(model.state_dict(), f'outputs/state_dict_{epoch}_epochs.pt')
-        torch.save(model.state_dict(), f'outputs/state_dict_{epoch}_epochs.pth')
+    if epoch_train_acc >= max(epoch_tr_acc):
+        torch.save(model.state_dict(), f'saved_models_accuracy/saved_model_acc_{epoch}_epochs.pt')
+        torch.save(model.state_dict(), f'saved_models_accuracy/saved_model_acc_{epoch}_epochs.pth')
         print('Validation loss decreased ({:.6f} --> {:.6f}).  Saving model ...'.format(valid_loss_min,epoch_val_loss))
         valid_loss_min = epoch_val_loss
     print(25*'==')
