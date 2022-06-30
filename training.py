@@ -15,7 +15,7 @@ df_train, df_test=train_test_split('outputs/data_labels.csv')
 train_set, valid_set=TrainData(df_train), TrainData(df_test)
 
 
-batch_size=32
+batch_size = 24
 train_loader = DataLoader(
                         train_set, batch_size=batch_size, 
                         collate_fn=partial(collate, vectorizer=train_set.vectorizer),
@@ -44,11 +44,11 @@ def accuracy_score(pred,label):
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # loss and optimization functions
-model=NaiveClassifier(2,32, 128, 300)
+model=NaiveClassifier(2, 32, 128, 300)
 
 model.to(device)
 
-lr=0.001
+lr = 0.001
 # loss and optimization functions
 criterion = nn.BCELoss()
 
@@ -56,7 +56,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 
 
 clip = 5
-epochs = 1
+epochs = 100
 valid_loss_min = np.Inf
 # train for some number of epochs
 epoch_tr_loss,epoch_vl_loss = [],[]
@@ -112,7 +112,7 @@ for epoch in range(epochs):
             val_acc += accuracy
     model.train()
     epoch_train_loss = sum(train_losses)/len(train_losses)
-    epoch_val_loss = (val_losses)/len(val_losses)
+    epoch_val_loss = sum(val_losses)/len(val_losses)
     epoch_train_acc = train_acc/len(train_loader.dataset)
     epoch_val_acc = val_acc/len(valid_loader.dataset)
     epoch_tr_loss.append(epoch_train_loss)
@@ -123,7 +123,8 @@ for epoch in range(epochs):
     print(f'train_loss : {epoch_train_loss} val_loss : {epoch_val_loss}')
     print(f'train_accuracy : {epoch_train_acc} val_accuracy : {epoch_val_acc}')
     if epoch_val_loss <= valid_loss_min:
-        torch.save(model.state_dict(), '../state_dict.pt')
+        torch.save(model.state_dict(), f'outputs/state_dict_{epoch}_epochs.pt')
+        torch.save(model.state_dict(), f'outputs/state_dict_{epoch}_epochs.pth')
         print('Validation loss decreased ({:.6f} --> {:.6f}).  Saving model ...'.format(valid_loss_min,epoch_val_loss))
         valid_loss_min = epoch_val_loss
     print(25*'==')
