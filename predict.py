@@ -9,32 +9,11 @@ def predict(path):
     scraped_text = scrape_text_from_file(path)
     text = ''.join(scraped_text)
     text_cleaned = clean_text(text)
-    sequences = padding(encoder(preprocessing(text_cleaned), FastText('simple')), 32)
-    sequences_t = torch.tensor(sequences)
-    # sequences_s = torch.stack(sequences_t)
-    # flat_input = torch.flatten(sequences_t)
-
+    df = pd.DataFrame([text_cleaned])
+    df = df.rename(columns={0: 'text'})
     
-    model = NaiveClassifier(2, 32, 128, 300)
-    model.load_state_dict(torch.load('saved_models_accuracy/saved_model_acc_99_epochs.pt'))
-    print(sequences_t.shape)
-    hidden = model.init_hidden(24)
+    return df
 
-
-    output, _ = model(sequences_t, hidden)
-        
-    # print(type(sequences_t))
-    # print(sequences_t)
-
-
-
-
-
-
-
-
-
-    # return prediction
 
 
 
