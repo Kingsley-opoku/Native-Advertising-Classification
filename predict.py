@@ -38,7 +38,7 @@ def predict(path):
 
 
 
-if predict('files/464_raw_html.txt'):
-    print('Sponsored')
-else:
-    print('Not Sponsored')
+# if predict('files/464_raw_html.txt'):
+#     print('Sponsored')
+# else:
+#     print('Not Sponsored')
