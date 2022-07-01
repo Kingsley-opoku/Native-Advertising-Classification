@@ -55,9 +55,11 @@ def scrape_data(rootdir):
                     writer = csv.writer(f)
                     for row in rows:
                         writer.writerow(row)
+                
+                return temp_text
 
 
-def preprocessing(df):
+def preprocessing():
     df = pd.read_csv('data_30878_entries.csv')
     df.columns = ['id', 'title', 'text']
 
@@ -75,4 +77,27 @@ def preprocessing(df):
 
 
 
-scrape_data(rootdir)
+def scrape_text_from_file(path):
+    if 'raw_html' in path:
+        page = open(path, 'r')
+        soup = bs(page, features="html.parser")
+
+        temp_text = []
+
+        text = soup.find_all('p')
+        for element in text:
+            # ele = element.get_text().strip().replace("\r","").replace("\n","")
+            ele = element.get_text().strip(' \n\t')
+            result = re.sub('\\s+', ' ', ele)
+            if len(result) == 0 or result.count(' ')/len(result)>0.3:
+                pass
+            else:
+                temp_text.append(result)
+        
+        return temp_text
+            
+        
+        
+
+
+# scrape_data(rootdir)

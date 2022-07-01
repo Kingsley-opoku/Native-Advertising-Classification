@@ -1,0 +1,1952 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="index,follow" name="Robots"/>
+  <!-- inthecactusgarden -->
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/display/common.css?styleId=1713098&amp;RK=1420660354243&amp;CE=75" id="primaryStylesheet" rel="stylesheet" type="text/css"/>
+  <link href="/universal/styles/squarespace-gallery-slideshow.css?CE=75" id="slideShowStylesheet" rel="stylesheet" type="text/css"/>
+  <link href="http://inthecactusgarden.squarespace.com/the-garden/atom.xml" rel="alternate" title="ATOM" type="application/atom+xml"/>
+  <link href="http://inthecactusgarden.squarespace.com/the-garden/rss.xml" rel="alternate" title="RSS" type="application/rss+xml"/>
+  <link href="http://inthecactusgarden.squarespace.com/the-garden/rdf.xml" rel="alternate" title="RDF" type="application/rdf+xml"/>
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+   WebFontConfig = {"google": {"families": [
+  "Josefin Sans:400",
+  "Cantarell:400"
+]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+  <script src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/connection/connection_core-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/json/json-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/animation/animation-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/selector/selector.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/element/element.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/global.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/lightbox.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/api.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/base64.js?CE=75" type="text/javascript">
+   &lt;/script&gt;
+&lt;script type="text/javascript" src="/universal/scripts/census.js?CE=75"&gt;
+  </script>
+  <script src="/universal/yui/yahoo/yahoo-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/event/event-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/event-mouseenter/event-mouseenter-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/yui/element/element-min.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/social.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/datefmt.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/yui2-yui3-bridge.js?CE=75" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   // &lt;![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "in the cactus garden"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "5124081"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+     Squarespace.Constants.OBJECT_PERMALINK = "http://inthecactusgarden.squarespace.com/the-garden/2011/2/24/through-the-anthroscope-week-eight.html"; 
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://five.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "456133";
+
+    
+
+    
+
+    
+
+  // ]]&gt;
+  </script>
+  <title>
+   in the cactus garden - the garden - through the anthroscope, weekeight
+  </title>
+  <meta content="in the cactus garden - the garden - through the anthroscope, weekeight" property="og:title"/>
+  <meta content=" when i was in high school, i was a pretty quiet person.
+
+ i still am somewhat, but not in the same..." property="og:description"/>
+  <!-- End Heading -->
+  <script src="/universal/scripts/cookie-min.js" type="text/javascript">
+  </script>
+  <script src="/universal/scripts/eu-cookie-policy.js" type="text/javascript">
+  </script>
+ </head>
+ <body class="objectId10592918" id="modulePage5124081">
+  <script type="text/javascript">
+   YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+  </script>
+  <script type="text/javascript">
+   YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+  <script type="text/javascript">
+   YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2Fthe-garden%2F2011%2F2%2F24%2Fthrough-the-anthroscope-week-eight.html"; } });
+  </script>
+  <div id="canvasWrapper">
+   <div id="canvas">
+    <div id="pageHeaderWrapper">
+     <div id="pageHeader">
+      <div id="navigationTop">
+       <div class="horizontalNavigationBar" id="navigationTop-sectionContent2340634">
+        <ul class="content-navigation">
+         <li class="module " id="navigationTop-moduleContentWrapper5124170">
+          <div id="navigationTop-moduleContent5124170">
+           <a class=" " href="/" id="navigationTop-moduleLink5124170">
+            <span>
+             home
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module active-module " id="navigationTop-moduleContentWrapper5124081">
+          <div id="navigationTop-moduleContent5124081">
+           <a class=" " href="/the-garden/" id="navigationTop-moduleLink5124081">
+            <span>
+             the garden
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationTop-moduleContentWrapper6014710">
+          <div id="navigationTop-moduleContent6014710">
+           <a class=" " href="/seeds/" id="navigationTop-moduleLink6014710">
+            <span>
+             seeds
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationTop-moduleContentWrapper18559091">
+          <div id="navigationTop-moduleContent18559091">
+           <a class=" " href="/bloomeria-lumiere/" id="navigationTop-moduleLink18559091">
+            <span>
+             bloomeria lumiere
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationTop-moduleContentWrapper10392406">
+          <div id="navigationTop-moduleContent10392406">
+           <a class=" " href="/books-on-my-parents-shelves/" id="navigationTop-moduleLink10392406">
+            <span>
+             books on my parents' shelves
+            </span>
+           </a>
+          </div>
+         </li>
+        </ul>
+        <br class="clearer"/>
+       </div>
+      </div>
+      <div id="bannerAreaWrapper">
+       <div id="bannerArea">
+        <div id="siteTitleWrapper">
+         <h1 id="siteTitle">
+          <a href="http://inthecactusgarden.squarespace.com/">
+           in the cactus garden
+          </a>
+         </h1>
+        </div>
+       </div>
+      </div>
+      <div id="navigationBottom">
+       <div class="horizontalNavigationBar" id="navigationBottom-sectionContent2340634">
+        <ul class="content-navigation">
+         <li class="module " id="navigationBottom-moduleContentWrapper5124170">
+          <div id="navigationBottom-moduleContent5124170">
+           <a class=" " href="/" id="navigationBottom-moduleLink5124170">
+            <span>
+             home
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module active-module " id="navigationBottom-moduleContentWrapper5124081">
+          <div id="navigationBottom-moduleContent5124081">
+           <a class=" " href="/the-garden/" id="navigationBottom-moduleLink5124081">
+            <span>
+             the garden
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationBottom-moduleContentWrapper6014710">
+          <div id="navigationBottom-moduleContent6014710">
+           <a class=" " href="/seeds/" id="navigationBottom-moduleLink6014710">
+            <span>
+             seeds
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationBottom-moduleContentWrapper18559091">
+          <div id="navigationBottom-moduleContent18559091">
+           <a class=" " href="/bloomeria-lumiere/" id="navigationBottom-moduleLink18559091">
+            <span>
+             bloomeria lumiere
+            </span>
+           </a>
+          </div>
+         </li>
+         <li class="module " id="navigationBottom-moduleContentWrapper10392406">
+          <div id="navigationBottom-moduleContent10392406">
+           <a class=" " href="/books-on-my-parents-shelves/" id="navigationBottom-moduleLink10392406">
+            <span>
+             books on my parents' shelves
+            </span>
+           </a>
+          </div>
+         </li>
+        </ul>
+        <br class="clearer"/>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="pageBodyWrapper">
+     <div id="pageBody">
+      <div class="verticalNavigationBarWrapper" id="sidebar1Wrapper">
+       <div class="iw-vnb1">
+        <div class="iw-vnb2">
+         <div class="iw-vnb3">
+          <div class="iw-vnb4">
+           <div class="verticalNavigationBar" id="sidebar1">
+            <div class="sectionWrapper promotedContainer " id="sectionContent2340634">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   Top
+                  </div>
+                  <ul class="content-navigation">
+                   <li class="module " id="moduleContentWrapper5124170">
+                    <div id="moduleContent5124170">
+                     <a class=" " href="/" id="moduleLink5124170">
+                      <span>
+                       home
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module active-module " id="moduleContentWrapper5124081">
+                    <div id="moduleContent5124081">
+                     <a class=" " href="/the-garden/" id="moduleLink5124081">
+                      <span>
+                       the garden
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper6014710">
+                    <div id="moduleContent6014710">
+                     <a class=" " href="/seeds/" id="moduleLink6014710">
+                      <span>
+                       seeds
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper18559091">
+                    <div id="moduleContent18559091">
+                     <a class=" " href="/bloomeria-lumiere/" id="moduleLink18559091">
+                      <span>
+                       bloomeria lumiere
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper10392406">
+                    <div id="moduleContent10392406">
+                     <a class=" " href="/books-on-my-parents-shelves/" id="moduleLink10392406">
+                      <span>
+                       books on my parents' shelves
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent3937515">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   explore the garden
+                  </div>
+                  <div class="content-passthrough">
+                   <div class="widget-wrapper widget-type-search" id="moduleContentWrapper9393272">
+                    <div id="moduleContent9393272">
+                     <!-- &lt;form method="get" action="/display/Search"&gt;
+	&lt;div class="search-form-pt-wrapper"&gt;
+	  &lt;div class="search-form-pt"&gt;
+	    &lt;span class="queryFieldWrapper"&gt;&lt;input type="text" class="text queryField" name="searchQuery" value=""/&gt;&lt;/span&gt;
+	    &lt;span class="queryButtonWrapper"&gt;&lt;input type="submit" class="button queryButton" value="&raquo;"/&gt;&lt;/span&gt;
+	    &lt;input type="hidden" name="moduleId" value="9393272"/&gt;
+	    &lt;br class="clearer"/&gt;
+	  &lt;/div&gt;
+	&lt;/div&gt;
+&lt;/form&gt; -->
+                     <form action="/display/Search" method="get">
+                      <input name="moduleId" type="hidden" value="9393272"/>
+                      <table border="0" cellpadding="0" cellspacing="0" class="search-form-pt-wrapper search-form-table">
+                       <tr class="search-form-pt search-form-row">
+                        <td class="queryFieldCell search-form-cell">
+                         <span class="queryFieldWrapper">
+                          <input class="text queryField" name="searchQuery" type="text" value=""/>
+                         </span>
+                        </td>
+                        <td class="queryButtonCell search-form-cell">
+                         <span class="queryButtonWrapper">
+                          <input class="button queryButton" type="submit" value=""/>
+                         </span>
+                        </td>
+                       </tr>
+                      </table>
+                     </form>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent7818546">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   in bloom
+                  </div>
+                  <div class="content-passthrough">
+                   <div class="widget-wrapper widget-type-tracker" id="moduleContentWrapper18475919">
+                    <div id="moduleContent18475919">
+                     <ul class="change-list-pt">
+                      <li>
+                       <span title="Thursday, 08 January 2015 9:00:54 AM EST">
+                        January 8
+                       </span>
+                       - sm
+                       <br/>
+                       <a href="/seeds/2015/1/8/maybe-dont-cheers-your-way-into-the-new-year.html#entry35176080">
+                        maybe don't cheers your way into the new year...
+                       </a>
+                      </li>
+                      <li>
+                       <span title="Wednesday, 07 January 2015 2:32:55 PM EST">
+                        January 7
+                       </span>
+                       - sm
+                       <br/>
+                       <a href="/home/">
+                        home
+                       </a>
+                      </li>
+                      <li>
+                       <span title="Thursday, 01 January 2015 7:49:45 PM EST">
+                        January 1
+                       </span>
+                       - sm
+                       <br/>
+                       <a href="/books-on-my-parents-shelves/2015/1/1/books-721-725.html#entry34658271">
+                        Books 721-725
+                       </a>
+                      </li>
+                      <li>
+                       <span title="Sunday, 21 December 2014 2:13:48 PM EST">
+                        December 21
+                       </span>
+                       - am the elder
+                       <br/>
+                       <a href="/bloomeria-lumiere/2014/12/21/on-mystery-misery-loneliness-and-adventure-13ish-thoughts-ab.html#entry35151977">
+                        On mystery, misery, loneliness, and adventure: 13(ish) thoughts about The Librarians
+                       </a>
+                      </li>
+                      <li>
+                       <span title="Thursday, 18 December 2014 2:58:21 PM EST">
+                        December 18
+                       </span>
+                       - am the elder
+                       <br/>
+                       <a href="/bloomeria-lumiere/2014/12/18/on-censorship-and-threats-thoughts-on-the-interview.html#entry35155142">
+                        On censorship and threats: Thoughts on The Interview
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent3805013">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   the greenhouse
+                  </div>
+                  <ul class="content-navigation">
+                   <li class="module " id="moduleContentWrapper11459128">
+                    <div id="moduleContent11459128">
+                     <a class=" " href="/the-cultural-anthropologist/" id="moduleLink11459128">
+                      <span>
+                       the cultural anthropologist's almanac
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5123485">
+                    <div id="moduleContent5123485">
+                     <a class=" " href="/daringdestionations/" id="moduleLink5123485">
+                      <span>
+                       daring destinations
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper11458005">
+                    <div id="moduleContent11458005">
+                     <a class=" " href="/global-gardens/" id="moduleLink11458005">
+                      <span>
+                       global gardens
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5169859">
+                    <div id="moduleContent5169859">
+                     <a class=" " href="/epicurean-canon-a-e/" id="moduleLink5169859">
+                      <span>
+                       epicurean canon a-e
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper16986876">
+                    <div id="moduleContent16986876">
+                     <a class=" " href="/epicurean-canon-f-j/" id="moduleLink16986876">
+                      <span>
+                       epicurean canon f-j
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper16986975">
+                    <div id="moduleContent16986975">
+                     <a class=" " href="/epicurean-canon-k-o/" id="moduleLink16986975">
+                      <span>
+                       epicurean canon k-o
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper16986989">
+                    <div id="moduleContent16986989">
+                     <a class=" " href="/epicurean-canon-p-t/" id="moduleLink16986989">
+                      <span>
+                       epicurean canon p-t
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper16986997">
+                    <div id="moduleContent16986997">
+                     <a class=" " href="/epicurean-canon-u/" id="moduleLink16986997">
+                      <span>
+                       epicurean canon u-#
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper6465123">
+                    <div id="moduleContent6465123">
+                     <a class=" " href="/mentionable-media/" id="moduleLink6465123">
+                      <span>
+                       mentionable media
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5586514">
+                    <div id="moduleContent5586514">
+                     <a class=" " href="/anthropological-abstracts/" id="moduleLink5586514">
+                      <span>
+                       anthropological abstracts
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5124493">
+                    <div id="moduleContent5124493">
+                     <a class=" " href="/anthropological-archives/" id="moduleLink5124493">
+                      <span>
+                       anthropological archives
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5125907">
+                    <div id="moduleContent5125907">
+                     <a class=" " href="/gourmet-gallery/" id="moduleLink5125907">
+                      <span>
+                       gourmet gallery
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent3805011">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   the tool shed
+                  </div>
+                  <ul class="content-navigation">
+                   <li class="module " id="moduleContentWrapper5125966">
+                    <div id="moduleContent5125966">
+                     <a class=" " href="/contact-sm/" id="moduleLink5125966">
+                      <span>
+                       contact sm
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper11584805">
+                    <div id="moduleContent11584805">
+                     <a class=" " href="/contact-kb/" id="moduleLink11584805">
+                      <span>
+                       contact kb
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper17506009">
+                    <div id="moduleContent17506009">
+                     <a class=" " href="/contact-th/" id="moduleLink17506009">
+                      <span>
+                       contact th
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper18574490">
+                    <div id="moduleContent18574490">
+                     <a class=" " href="/contact-am-the-elder/" id="moduleLink18574490">
+                      <span>
+                       contact am the elder
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper19100923">
+                    <div id="moduleContent19100923">
+                     <a class=" " href="/contact-nj/" id="moduleLink19100923">
+                      <span>
+                       contact nj
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper19215434">
+                    <div id="moduleContent19215434">
+                     <a class=" " href="/contact-lm-the-younger/" id="moduleLink19215434">
+                      <span>
+                       contact lm the younger
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                   <li class="module " id="moduleContentWrapper5123486">
+                    <div id="moduleContent5123486">
+                     <a class=" " href="/login/?returnUrl=%2Fthe-garden%2F2011%2F2%2F24%2Fthrough-the-anthroscope-week-eight.html" id="moduleLink5123486">
+                      <span>
+                       login
+                      </span>
+                     </a>
+                    </div>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent3838969">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   the gatehouse
+                  </div>
+                  <div class="content-passthrough">
+                   <div class="widget-wrapper widget-type-page" id="moduleContentWrapper17512175">
+                    <div id="moduleContent17512175">
+                     <p>
+                      come here often?
+                     </p>
+                     <p>
+                      like the cactus garden on that fb thing to get all of our updates
+                     </p>
+                     <p>
+                      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Finthecactusgarden&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=90" style="border:none; overflow:hidden; width:450px; height:90px;">
+                      </iframe>
+                     </p>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-twitter" id="moduleContentWrapper19116090">
+                    <div id="moduleContent19116090">
+                     <style type="text/css">
+                      &lt;!--
+      #twitter-wrapper-19116090 {
+        display: block;
+        visibility: hidden;
+      }
+            
+    --&gt;
+                     </style>
+                     <div id="twitter-loading-wrapper-19116090" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+                      <div id="twitter-loading-img-19116090" style="height:100%; background:url(/universal/images/loading.png) no-repeat center center transparent;">
+                      </div>
+                     </div>
+                     <div id="twitter-error-wrapper-19116090" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+                      <a href="javascript:void(0);" id="twitter-error-img-19116090" onclick="javascript: twitterWidget19116090.show();" style="display:block; height:100%; background:url(/universal/images/loading-refresh.png) no-repeat center center transparent;">
+                      </a>
+                     </div>
+                     <div class="twitter-wrapper basic" id="twitter-wrapper-19116090">
+                      <div class="twitter-content">
+                       <div id="twitter-page-19116090">
+                        <div class="twitter-item-basic highlight" id="tweet-item-19116090-1">
+                         <div class="twitter-item-content-basic">
+                          <div class="twitter-username">
+                           <a href="" id="tweet-username-link-19116090-1" target="_blank">
+                           </a>
+                          </div>
+                          <span id="tweet-content-19116090-1">
+                          </span>
+                         </div>
+                         <div class="twitter-item-slug">
+                          <div class="clearer">
+                          </div>
+                         </div>
+                        </div>
+                        <div class="twitter-item-basic" id="tweet-item-19116090-2">
+                         <div class="twitter-item-content-basic">
+                          <div class="twitter-username">
+                           <a href="" id="tweet-username-link-19116090-2" target="_blank">
+                           </a>
+                          </div>
+                          <span id="tweet-content-19116090-2">
+                          </span>
+                         </div>
+                         <div class="twitter-item-slug">
+                          <div class="clearer">
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                      <div class="twitter-slug">
+                       <div class="twitter-link">
+                        <a href="" id="followme-link-19116090-1" target="_blank">
+                         <img class="avatar" id="followme-avatar-img-19116090-1" src=""/>
+                         <span id="followme-text-19116090-1">
+                         </span>
+                        </a>
+                       </div>
+                      </div>
+                     </div>
+                     <script type="text/javascript">
+                      &lt;!--
+
+  var twitterWidget19116090;
+
+  E.onDOMReady( function() {
+
+    twitterWidget19116090 = new Squarespace.Social.TwitterWidget(19116090, { preset : 'basic-preset', pageSize : 2, followMeText : 'follow @thecactusgarden', filter : '', filterType : 'any', filterAtReplies: true, filterRetweets : true, userIds : '939732390,' });
+    twitterWidget19116090.show();      
+    
+  });
+  
+  
+//--&gt;
+                     </script>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-page" id="moduleContentWrapper19109921">
+                    <div id="moduleContent19109921">
+                     <p>
+                      <a href="https://plus.google.com/105616499901180614514" rel="publisher">
+                       Find us on Google+
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-rss-syndicate" id="moduleContentWrapper9129212">
+                    <div id="moduleContent9129212">
+                     <ul class="feed-list-inline">
+                      <li>
+                       <a class="feed-link" href="http://inthecactusgarden.squarespace.com/the-garden/rss.xml">
+                        the garden RSS
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-rss-syndicate" id="moduleContentWrapper9129197">
+                    <div id="moduleContent9129197">
+                     <ul class="feed-list-inline">
+                      <li>
+                       <a class="feed-link" href="http://inthecactusgarden.squarespace.com/seeds/rss.xml">
+                        seeds RSS
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-rss-syndicate" id="moduleContentWrapper19116097">
+                    <div id="moduleContent19116097">
+                     <ul class="feed-list-inline">
+                      <li>
+                       <a class="feed-link" href="http://inthecactusgarden.squarespace.com/bloomeria-lumiere/rss.xml">
+                        bloomeria lumiere RSS
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-rss-syndicate" id="moduleContentWrapper10393582">
+                    <div id="moduleContent10393582">
+                     <ul class="feed-list-inline">
+                      <li>
+                       <a class="feed-link" href="http://inthecactusgarden.squarespace.com/books-on-my-parents-shelves/rss.xml">
+                        books on my parents' shelves RSS
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-page" id="moduleContentWrapper17512046">
+                    <div id="moduleContent17512046">
+                     <p>
+                     </p>
+                     <div class="fb-like" data-font="verdana" data-href="https://www.facebook.com/inthecactusgarden" data-layout="box_count" data-send="true" data-show-faces="false" data-width="450">
+                     </div>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-page" id="moduleContentWrapper17512202">
+                    <div id="moduleContent17512202">
+                     <p>
+                      like books on my parents' shelves?
+                     </p>
+                     <p>
+                      let us know!
+                     </p>
+                     <p>
+                      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fthebooksblog&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=90" style="border:none; overflow:hidden; width:450px; height:90px;">
+                      </iframe>
+                     </p>
+                    </div>
+                   </div>
+                   <div class="widget-wrapper widget-type-page" id="moduleContentWrapper10983295">
+                    <div id="moduleContent10983295">
+                     <p>
+                      <strong>
+                       plant the cactus garden
+                      </strong>
+                     </p>
+                     <p>
+                      in the cactus garden is vehemently opposed to ads and is run entirely out of pocket and often at a loss.
+                     </p>
+                     <p>
+                      help contribute to the cactus garden's mental health wine fund by donating to the garden.
+                     </p>
+                     <p>
+                      you know, but only if you feel like it.
+                     </p>
+                     <p>
+                     </p>
+                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                     </form>
+                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                      <input name="cmd" type="hidden" value="_s-xclick"/>
+                      <input name="hosted_button_id" type="hidden" value="J96EVHQ2XF6QE"/>
+                      <input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" type="image"/>
+                      <img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+                     </form>
+                     <p>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="sectionWrapper " id="sectionContent8104098">
+             <div class="iw-s1">
+              <div class="iw-s2">
+               <div class="iw-s3">
+                <div class="iw-s4">
+                 <div class="section">
+                  <div class="caption">
+                   perennial posts
+                  </div>
+                  <div class="content-passthrough">
+                   <div class="widget-wrapper widget-type-tagcloud" id="moduleContentWrapper19251695">
+                    <div id="moduleContent19251695">
+                     <style type="text/css">
+                      #tagcloudwrapper-19251695 a { display:inline-block; }
+                     </style>
+                     <div class="tagcloud-widget-wrapper" id="tagcloudwrapper-19251695">
+                      <div class="tagcloud">
+                       <a href="/the-garden/tag/a-survey-of-contemporary-office-cuisine">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         a survey of contemporary office cuisine
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/ar-radcliffe-brown">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         a.r. radcliffe-brown
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/academia">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         academia
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/alone-in-the-kitchen-with-an-eggplant">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         alone in the kitchen with an eggplant
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/amuse-bouche">
+                        <span style="z-index:11; font-size: 1.1em; opacity:0.82;">
+                         amuse-bouche
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/amusing">
+                        <span style="z-index:18; font-size: 1.17em; opacity:0.83;">
+                         amusing
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/animated">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         animated
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/anthropological-abstracts">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         anthropological abstracts
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/anthropological-archives">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         anthropological archives
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/anthropologists">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         anthropologists
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/anthropology">
+                        <span style="z-index:60; font-size: 1.6em; opacity:0.92;">
+                         anthropology
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/anthroscope">
+                        <span style="z-index:42; font-size: 1.41em; opacity:0.88;">
+                         anthroscope
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/awkward-cultural-hijacking">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         awkward cultural hijacking
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/beverages">
+                        <span style="z-index:11; font-size: 1.1em; opacity:0.82;">
+                         beverages
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/blogday">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         blogday
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/book-pairings">
+                        <span style="z-index:7; font-size: 1.06em; opacity:0.81;">
+                         book pairings
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/books">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         books
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/books-on-my-parents-shelves">
+                        <span style="z-index:8; font-size: 1.07em; opacity:0.81;">
+                         books on my parents' shelves
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/brillat-savarin">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         brillat-savarin
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/brunch">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         brunch
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/charles-street-media-tour">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         charles street media tour
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/china">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         china
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/clementine">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         clementine
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/cookbooks">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         cookbooks
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/critical-citations">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         critical citations
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/dance-your-phd-contest">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         dance your ph.d. contest
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/daring-destinations">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         daring destinations
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/definitions">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         definitions
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/description-of-the-garden">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         description of the garden
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/doctor-who">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         doctor who
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/documentaries">
+                        <span style="z-index:9; font-size: 1.08em; opacity:0.82;">
+                         documentaries
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/drunk-food-book-club">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         drunk food book club
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/epicurean-canon">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         epicurean canon
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/ethnographic">
+                        <span style="z-index:40; font-size: 1.39em; opacity:0.88;">
+                         ethnographic
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/faces-and-food">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         faces and food
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/farming">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         farming
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/fiction">
+                        <span style="z-index:10; font-size: 1.09em; opacity:0.82;">
+                         fiction
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/fieldwork">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         fieldwork
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food">
+                        <span style="z-index:90; font-size: 1.9em; opacity:0.98;">
+                         food
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food-festivals">
+                        <span style="z-index:8; font-size: 1.07em; opacity:0.81;">
+                         food festivals
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food-history">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         food history
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food-phobias">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         food phobias
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food-politics">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         food politics
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/food-writing">
+                        <span style="z-index:56; font-size: 1.55em; opacity:0.91;">
+                         food writing
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/foodites">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         foodites
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/fraziers">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         frazier's
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/furies">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         furies
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/golden-west">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         golden west
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/gourmet-gallery">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         gourmet gallery
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/gourmet-rhapsody">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         gourmet rhapsody
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/grad-school">
+                        <span style="z-index:15; font-size: 1.14em; opacity:0.83;">
+                         grad school
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/guest-posts">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         guest posts
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/housekeeping">
+                        <span style="z-index:17; font-size: 1.16em; opacity:0.83;">
+                         housekeeping
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/humor">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         humor
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/identity">
+                        <span style="z-index:42; font-size: 1.41em; opacity:0.88;">
+                         identity
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/in-memorium">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         in memorium
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/jasper-and-the-night-out">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         jasper and the night out
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/jasper-and-the-road">
+                        <span style="z-index:17; font-size: 1.16em; opacity:0.83;">
+                         jasper and the road
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/king-of-the-road">
+                        <span style="z-index:21; font-size: 1.21em; opacity:0.84;">
+                         king of the road
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/levi-strauss">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         levi-strauss
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/linguistics">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         linguistics
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/links">
+                        <span style="z-index:8; font-size: 1.07em; opacity:0.81;">
+                         links
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/mfk-fisher-monday">
+                        <span style="z-index:16; font-size: 1.15em; opacity:0.83;">
+                         m.f.k. fisher monday
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/masters-thesis">
+                        <span style="z-index:7; font-size: 1.06em; opacity:0.81;">
+                         masters thesis
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/mentionable-media">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         mentionable media
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/mid-atlantic-food-expo">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         mid-atlantic food expo
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/monthly-wrap-up">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         monthly wrap-up
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/music">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         music
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/new-years">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         new years
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/news">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         news
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/non-fiction">
+                        <span style="z-index:12; font-size: 1.11em; opacity:0.82;">
+                         non-fiction
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/open-source">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         open source
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/or-whatever">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         or whatever
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/oregon-trail">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         oregon trail
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/parody">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         parody
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/photography">
+                        <span style="z-index:16; font-size: 1.15em; opacity:0.83;">
+                         photography
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/pictoral-recipes">
+                        <span style="z-index:8; font-size: 1.07em; opacity:0.81;">
+                         pictoral recipes
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/pilgrimage">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         pilgrimage
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/poetry">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         poetry
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/quotes">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         quotes
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/recipes">
+                        <span style="z-index:24; font-size: 1.23em; opacity:0.85;">
+                         recipes
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/references">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         references
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/religion">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         religion
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/research">
+                        <span style="z-index:12; font-size: 1.11em; opacity:0.82;">
+                         research
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/restaurant-reviews">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         restaurant reviews
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/restaurants">
+                        <span style="z-index:18; font-size: 1.17em; opacity:0.83;">
+                         restaurants
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/rituals">
+                        <span style="z-index:14; font-size: 1.13em; opacity:0.83;">
+                         rituals
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/rocket-to-venus">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         rocket to venus
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/seeds">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         seeds
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/sm-rambles">
+                        <span style="z-index:100; font-size: 2em; opacity:1;">
+                         sm rambles
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/sms-observations">
+                        <span style="z-index:89; font-size: 1.89em; opacity:0.98;">
+                         sm's observations
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/south-africa">
+                        <span style="z-index:8; font-size: 1.07em; opacity:0.81;">
+                         south africa
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/spirit-fall">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         spirit fall
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/statistics">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         statistics
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/sustainability">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         sustainability
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/technology">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         technology
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/ted-talks">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         ted talks
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/terms">
+                        <span style="z-index:6; font-size: 1.05em; opacity:0.81;">
+                         terms
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/terry-eagleton">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         terry eagleton
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/the-annotated-arbor">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         the annotated arbor
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/the-great-doctor-who-ethnography-endeavo">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         the great doctor who ethnography endeavor
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/the-man-who-ate-everything">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         the man who ate everything
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/the-second-lieutenant">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         the second lieutenant
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/the-undergrad-garth">
+                        <span style="z-index:9; font-size: 1.08em; opacity:0.82;">
+                         the undergrad garth
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/the-world-on-a-plate">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         the world on a plate
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/travel">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         travel
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/truck-farm">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         truck farm
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/two-for-the-road">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         two for the road
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/updates">
+                        <span style="z-index:4; font-size: 1.03em; opacity:0.81;">
+                         updates
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/urban-farming">
+                        <span style="z-index:3; font-size: 1.02em; opacity:0.8;">
+                         urban farming
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/vegan">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         vegan
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/vegetarian">
+                        <span style="z-index:2; font-size: 1.01em; opacity:0.8;">
+                         vegetarian
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/wade-davis">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         wade davis
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/what-we-eat-when-we-eat-alone">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         what we eat when we eat alone
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/written-by-sm">
+                        <span style="z-index:25; font-size: 1.24em; opacity:0.85;">
+                         written by sm
+                        </span>
+                       </a>
+                       <a href="/the-garden/category/written-works">
+                        <span style="z-index:21; font-size: 1.21em; opacity:0.84;">
+                         written works
+                        </span>
+                       </a>
+                       <a href="/the-garden/tag/xenophobia">
+                        <span style="z-index:1; font-size: 1em; opacity:0.8;">
+                         xenophobia
+                        </span>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="verticalNavigationBarWrapper" id="sidebar2Wrapper">
+       <div class="iw-vnb1">
+        <div class="iw-vnb2">
+         <div class="iw-vnb3">
+          <div class="iw-vnb4">
+           <div class="verticalNavigationBar" id="sidebar2">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="contentWrapper">
+       <div id="content">
+        <div class="journal-entry-navigation">
+         <a class="journal-entry-navigation-prev" href="/the-garden/2011/2/25/beautiful-mud.html">
+           beautiful mud
+         </a>
+         |
+         <a class="journal-entry-navigation-main" href="/the-garden/">
+          Main
+         </a>
+         |
+         <a class="journal-entry-navigation-next" href="/the-garden/2011/2/18/food-in-literature-gone-with-the-wind.html">
+          food in literature, gone with the wind 
+         </a>
+        </div>
+        <div class="single-journal-entry-wrapper">
+         <div class="journal-entry-wrapper post-text authored-by-inthecactusgarden category-anthroscope">
+          <div class="journal-entry" id="item10592918">
+           <div class="journal-entry-float-day">
+            <span class="name">
+             Thursday
+            </span>
+           </div>
+           <div class="journal-entry-float-date">
+            <span class="month">
+             Feb
+            </span>
+            <span class="date">
+             24
+            </span>
+            <span class="year">
+             2011
+            </span>
+           </div>
+           <div class="journal-entry-text">
+            <h2 class="title">
+             <a class="journal-entry-navigation-current" href="/the-garden/2011/2/24/through-the-anthroscope-week-eight.html">
+              through the anthroscope, weekeight
+             </a>
+            </h2>
+            <div class="journal-entry-tag journal-entry-tag-post-title">
+             <span class="posted-on">
+              <img alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" title="Date"/>
+              Thursday, February 24, 2011 at 10:20 AM
+             </span>
+            </div>
+            <div class="body">
+             <p>
+              when i was in high school, i was a pretty quiet person.
+             </p>
+             <p>
+              i still am somewhat, but not in the same ways that i was back then.
+             </p>
+             <p>
+              i wasn't big on going out. i was never the crazy high school student doing random, possibly offensive, things.
+             </p>
+             <p>
+              and i was shy in an odd way; i was a theater major, and being shy while also wanting to be on stage makes things a little bit complicated.
+             </p>
+             <p>
+              by the time weekends came around, i had used up all of my dealing-with-other-people energy. i wanted to be left alone.
+             </p>
+             <p>
+              so saturday nights i became a hermit. i
+              <em>
+               perfected
+              </em>
+              the art of hermitude.
+             </p>
+             <p>
+              i cleaned my room. and made bread in the bread maker. maybe had a glass of soda. (this was when i was still drinking soda.)
+             </p>
+             <p>
+             </p>
+             <p>
+              but most importantly, on saturday nights the bbc reigned supreme.
+             </p>
+             <p>
+              on a little, box tv (the first color tv my mother's family ever owned), i would watch
+              <em>
+               are you being served, keeping up appearances, waiting for god, the vicar of dilby, my hero, yes minister
+              </em>
+              , and all sorts of quirky shows that, had i been more open about my voluntary hermitude, would have confirmed to the world that i kind of sucked at being a teenager. (or rather, a rebel teenager. being awkward and unsure of myself i was great at.)
+             </p>
+             <p>
+              out of all of these shows, my favorite was
+              <em>
+               doctor who
+              </em>
+              .
+             </p>
+             <p>
+              it came on the latest, usually around midnight or 12:30. and it lasted the longest. half of the time it was difficult to tell what was going on because the small screen. (i think the screen was about half the size or less than the size of my laptop screen today.)
+             </p>
+             <p>
+              i started watching with the tom baker episodes and then moved on to the peter davidson. when both tom baker and peter davidson left, i think i might have cried a little. i never got into the later doctors, but i always watched the original five doctors when they were on.
+             </p>
+             <p>
+              i enjoyed my hermitude.
+             </p>
+             <p>
+             </p>
+             <p>
+              today this show is popular. it's been redone and it's actually cool to admit that you watch it, which still feels a little bizarre to me. so writing a whole anthroscope post about it isn't as weird as if (had blogs and their ilk been around back then) i had written a post like this back when i was in high school.
+             </p>
+             <p>
+              a couple of days ago, one of the actors who had been on the show the longest, nicholas courtney (who played brigadier alistair gordon lethbridge-stewart  what a name!) passed away.
+             </p>
+             <p>
+              if you've never seen the show or just aren't into this sort of thing, that's okay. but for the rest of you, th was kind enough to make me this clip of mr. courtney offering tea to one of the second doctor's companions, zoe, at a somewhat inopportune time. this is from the first story arc where mr. courtney appears as the brigadier. (previously the character had appeared as a colonel, and before that mr. courtney had appeared as entirely different character.)
+             </p>
+             <p>
+             </p>
+             <p>
+              i know tea isn't a very strong reason to show a clip in the anthroscope, but oh well. if i remember correctly, someone once wrote an anthological piece based entirely off of the
+              <em>
+               dune
+              </em>
+              movies. maybe someday, when i get really bored or sick of people, i'll write my own ethnography based off of
+              <em>
+               doctor who
+              </em>
+              and then all of this will be justified.
+             </p>
+             <p>
+             </p>
+             <p>
+              until then, i'm just going to be sad for a little bit.
+             </p>
+             <p>
+             </p>
+             <p>
+              <iframe allowfullscreen="" frameborder="0" height="390" src="http://www.youtube.com/embed/hDniIMKgOc4" title="YouTube video player" width="480">
+              </iframe>
+             </p>
+            </div>
+           </div>
+           <div class="journal-entry-tag journal-entry-tag-post-body">
+            <div class="journal-entry-tag-post-body-line1">
+             <span class="posted-by">
+              <a href="/the-garden/author/inthecactusgarden">
+               <img alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" title="Author"/>
+               sm
+              </a>
+             </span>
+             |
+             <span class="post-comments">
+              <a href="/the-garden/2011/2/24/through-the-anthroscope-week-eight.html#comments">
+               <img alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" title="Comment"/>
+               Post a Comment
+              </a>
+             </span>
+             |
+             <span class="email-item">
+              <a href="/the-garden/recommend/10592918">
+               <img alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" title="Email Article"/>
+               Email Article
+              </a>
+             </span>
+             |
+             <span class="share-item">
+              <a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fthe-garden%2F2011%2F2%2F24%2Fthrough-the-anthroscope-week-eight.html','through%20the%20anthroscope%2C%20week%20eight');">
+               <img alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" title="Share Article"/>
+               Share Article
+              </a>
+             </span>
+            </div>
+            <div class="journal-entry-tag-post-body-line2">
+             <span class="tagged-with">
+              tagged
+              <span class="tag-element">
+               <a href="/the-garden/tag/beverages" rel="tag">
+                <img alt="Tag" class="inline-icon tag-icon" rel="dark" src="/universal/images/transparent.png" title="Tag"/>
+                beverages
+               </a>
+              </span>
+              ,
+              <span class="tag-element">
+               <a href="/the-garden/tag/doctor-who" rel="tag">
+                <img alt="Tag" class="inline-icon tag-icon" rel="dark" src="/universal/images/transparent.png" title="Tag"/>
+                doctor who
+               </a>
+              </span>
+              ,
+              <span class="tag-element">
+               <a href="/the-garden/tag/sm-rambles" rel="tag">
+                <img alt="Tag" class="inline-icon tag-icon" rel="dark" src="/universal/images/transparent.png" title="Tag"/>
+                sm rambles
+               </a>
+              </span>
+             </span>
+             <span class="posted-in">
+              in
+              <span class="tag-element">
+               <a href="/the-garden/category/anthroscope" rel="tag">
+                <img alt="Category" class="inline-icon category-icon" rel="dark" src="/universal/images/transparent.png" title="Category"/>
+                anthroscope
+               </a>
+              </span>
+             </span>
+            </div>
+            <div class="journal-entry-tag-post-body-line3">
+            </div>
+           </div>
+           <div class="clearer">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="journal-comment-area-wrapper">
+         <div class="journal-comment-area" id="comments">
+          <h3 class="caption">
+           Reader Comments
+          </h3>
+          <div class="text">
+           There are no comments for this journal entry.  To create a new comment, use the form below.
+          </div>
+         </div>
+        </div>
+        <div class="journal-add-comment-area-wrapper">
+         <script type="text/javascript">
+          // &lt;![CDATA[
+
+    var isAddCommentsVisible = true;
+
+    function toggleReferenceMode() {
+      if (isAddCommentsVisible) {
+        hideObject(document.getElementById("add-comment-area"));
+        showObject(document.getElementById("add-reference-area"));
+      } else {
+        showObject(document.getElementById("add-comment-area"));
+        hideObject(document.getElementById("add-reference-area"));
+      }
+      isAddCommentsVisible = !isAddCommentsVisible;
+    }
+
+    E.addListener("postform", "keydown", Squarespace.SessionAuthorizationKey.acquireAuthKey, '');
+
+  // ]]&gt;
+         </script>
+         <form action="/process/CreateJournalEntryComment?moduleId=5124081&amp;entryId=10592918" id="postform" method="post" name="postform" style="margin: 0; padding: 0;">
+          <div class="notice-box" id="add-comment-area" style="margin-top: 2em;">
+           <h3 class="caption">
+            <img alt="Post" class="inline-icon" rel="dark" src="/universal/images/transparent.png" style="background:transparent url(/universal/images/core-resources/icons/dark/comment.png) top left no-repeat;" title="Post"/>
+            Post a New Comment
+           </h3>
+           <div class="caption-text">
+            Enter your information below to add a new comment.
+            <br/>
+            <br/>
+            <a href="javascript:toggleReferenceMode();">
+             My response is on my own website 
+            </a>
+           </div>
+           <script src="/universal/scripts/storable-fields.js?CE=75" type="text/javascript">
+           </script>
+           <div class="input-field">
+            <div class="title" id="authorName_title">
+             Author:
+             <a href="javascript:forgetSavedFields();" id="storedFieldControls" style="display: none; font-size: 9px;">
+              (forget stored information)
+             </a>
+            </div>
+            <input class="text" id="authorName" maxlength="50" name="authorName" style="width: 200px;" tabindex="2" type="text" value=""/>
+           </div>
+           <div class="input-field">
+            <div class="title" id="authorEmail_title">
+             Author Email (optional):
+            </div>
+            <input class="text" id="authorEmail" maxlength="255" name="authorEmail" style="width: 200px;" tabindex="3" type="text" value=""/>
+           </div>
+           <div class="input-field">
+            <div class="title" id="authorUrl_title">
+             Author URL (optional):
+            </div>
+            <input class="text" id="authorUrl" maxlength="255" name="authorUrl" style="width: 200px;" tabindex="4" type="text" value=""/>
+           </div>
+           <script type="text/javascript">
+            YAHOO.util.Event.addListener(window, "load", function() {
+
+              document.getElementById("storedFieldControls").style.display = (Squarespace.StorableFields.isDataSaved("authorName", "authorEmail", "authorUrl") ? "inline" : "none");
+              Squarespace.StorableFields.recall("authorName", "authorEmail", "authorUrl");
+
+            });
+
+            function forgetSavedFields() {
+
+              Squarespace.StorableFields.forget("authorName", "authorEmail", "authorUrl");
+              document.getElementById("storedFieldControls").style.display = "none";
+
+            }
+           </script>
+           <script type="text/javascript">
+            function expandBody() { b = document.getElementById("body"); b.style.height = (b.offsetHeight + 40) + "px"; }
+          function shrinkBody() { b = document.getElementById("body"); b.style.height = (b.offsetHeight - 40) + "px"; }
+           </script>
+           <div id="body_title" style="padding-bottom: 5px; float: left;">
+            Post:
+           </div>
+           <div style="padding-bottom: 5px; float: right;">
+            <a href="javascript:expandBody();" title="Increase the size of the comment area.">
+             
+            </a>
+            |
+            <a href="javascript:shrinkBody();" title="Decrease the size of the comment area.">
+             
+            </a>
+           </div>
+           <div class="clearer">
+           </div>
+           <div style="padding-bottom: 5px;">
+            <textarea cols="60" id="body" name="body" rows="15" tabindex="5">
+            </textarea>
+           </div>
+           <div style="padding-bottom: 5px;">
+            All HTML will be escaped.
+            <a href="/display/ShowHelp?section=Textile" onclick="window.open(this.href, 'TextileRef', 'width=400,height=560,scrollbars=yes,resizable=yes,titlebar=yes,menubar=no,toolbar=no'); return false;">
+             Textile formatting is allowed
+            </a>
+            .
+           </div>
+           <div class="footer">
+            <div class="notice-box-alert">
+             <div class="icon">
+              <img alt="Alert" class="inline-icon" rel="dark" src="/universal/images/transparent.png" style="background:transparent url(/universal/images/core-resources/icons/dark/alert.png) top left no-repeat;" title="Alert"/>
+             </div>
+             <div class="text">
+              <strong>
+               comment moderation? yes. it happens.
+              </strong>
+              <br/>
+              Your comment will not appear until it has been cleared by a website editor.
+             </div>
+            </div>
+            <p style="padding-bottom: 10px;">
+             <input class="checkbox" id="followOptIn" name="followOptIn" tabindex="6" type="checkbox" value="true"/>
+             <span onclick="toggleNotify()" style="cursor: pointer; cursor: hand">
+              Notify me of follow-up comments via email.
+             </span>
+            </p>
+            <br/>
+            <input id="authKey" name="authKey" type="hidden" value=""/>
+            <input class="button" id="createPostButton" name="createPostButton" onclick="submitContent(true);" style="width: 150px;" tabindex="6" type="button" value="Create Post"/>
+            <input class="button" id="previewPostButton" name="previewPostButton" onclick="submitContent(false);" style="width: 150px;" tabindex="7" type="button" value="Preview Post"/>
+           </div>
+          </div>
+         </form>
+         <script type="text/javascript">
+          // &lt;![CDATA[
+
+    function toggleNotify() {
+      document.getElementById("followOptIn").click();
+    }
+              
+    function submitContent(isFinal) {
+      if (isFinal) {
+        document.getElementById("postform").action += "&amp;finalize=true";
+        Squarespace.StorableFields.save("authorName", "authorEmail", "authorUrl");
+      }
+      Squarespace.Form.smartSubmit("postform");
+    }
+
+  // ]]&gt;
+         </script>
+         <form action="/process/CreateReference?moduleId=5124081&amp;entryId=10592918" id="postreferenceform" method="post" name="postreferenceform" style="margin: 0; padding: 0;">
+          <div class="notice-box" id="add-reference-area" style="margin-top: 2em; display: none;">
+           <h3 class="caption">
+            <img alt="Post" class="inline-icon" rel="dark" src="/universal/images/transparent.png" style="background:transparent url(/universal/images/core-resources/icons/dark/reference.png) top left no-repeat;" title="Post"/>
+            Link an External Response
+           </h3>
+           <div class="caption-text">
+            Have a response on your own site?
+
+                      Use this area to link to your response directly.
+            <br/>
+            <br/>
+            <a href="javascript:toggleReferenceMode();">
+             I want to leave a comment directly on this site 
+            </a>
+           </div>
+           <div class="caption-text" id="directLink">
+            <div class="input-field">
+             <div class="title">
+              Article Title:
+             </div>
+             <div class="control">
+              <input class="text" id="title" name="title" tabindex="2" type="text" value=""/>
+             </div>
+            </div>
+            <div class="input-field">
+             <div class="title">
+              Article URL:
+             </div>
+             <div class="control">
+              <input class="text" id="url" name="url" tabindex="3" type="text" value=""/>
+             </div>
+            </div>
+            <div class="input-field">
+             <div class="title">
+              Article Excerpt (optional):
+             </div>
+             <div class="control">
+              <input class="text" id="excerpt" name="excerpt" tabindex="4" type="text" value=""/>
+             </div>
+            </div>
+            <div class="input-field">
+             <div class="title">
+              Site Name:
+             </div>
+             <div class="control">
+              <input class="text" id="blog_name" name="blog_name" tabindex="5" type="text" value=""/>
+             </div>
+            </div>
+            <div class="input-field">
+             <div class="title">
+              Site URL (optional):
+             </div>
+             <div class="control">
+              <input class="text" id="blog_url" name="blog_url" tabindex="5" type="text" value=""/>
+             </div>
+            </div>
+            <div class="input-field">
+             <div class="title">
+              Author Name:
+             </div>
+             <div class="control">
+              <input class="text" id="author_name" name="author_name" tabindex="6" type="text" value=""/>
+             </div>
+            </div>
+           </div>
+           <div class="footer">
+            <div class="notice-box-alert">
+             <div class="icon">
+              <img alt="Alert" class="inline-icon" rel="dark" src="/universal/images/transparent.png" style="background:transparent url(/universal/images/core-resources/icons/dark/alert.png) top left no-repeat;" title="Alert"/>
+             </div>
+             <div class="text">
+              <strong>
+               References will be subject to editor approval before appearing.
+              </strong>
+              Your reference will not appear until it has been cleared by a website editor.
+             </div>
+            </div>
+            <input class="button" onclick="Squarespace.Form.smartSubmit('postreferenceform');" style="width: 150px;" tabindex="7" type="button" value="Create Reference"/>
+           </div>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+      <!-- Content -->
+     </div>
+    </div>
+    <!-- Page Body -->
+    <div id="pageFooterWrapper">
+     <div id="pageFooter">
+      <p>
+       copyright  2009-2015 [sm &amp; company].  all rights reserved.
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Canvas -->
+  <div class="clearer" id="bodyClearer">
+  </div>
+ </body>
+</html>
